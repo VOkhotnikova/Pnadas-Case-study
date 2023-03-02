@@ -1,1 +1,1 @@
-# Pnadas-Case-study
+# Pandas-Case-study
