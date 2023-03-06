@@ -1,2 +1,2 @@
-#Pandas Case study  
-###Case studies on Python using Kaggle
+# Pandas Case study  
+### Case studies on Python using Kaggle
